@@ -2,7 +2,7 @@
 Example of using the 74HC165 Shift Register within the ESP8266 Arduino Environment.
 
 ## Hardware
-Example performed using a NodeMCU v 1.0 ESP-12 variety. It should work with other ESP8266 hardware with changes to the gpios.
+Example performed using a NodeMCU v 1.0 ESP-12 variant. It should work with other ESP8266 hardware with changes to the gpios.
 
 ## Arduino IDE
 Development environment used arduino-1.8.6-windows with the esp8266-Arduino-2.5.0-beta2 board extention installed.
