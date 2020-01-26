@@ -1,1 +1,11 @@
+---
+title: 74 Hc165 Esp8266
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 theme: jekyll-theme-minimal
