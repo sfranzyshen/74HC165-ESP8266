@@ -8,4 +8,5 @@ collections:
   uploads:
     title: Uploads
     output: true
+show_downloads: true
 theme: jekyll-theme-slate
