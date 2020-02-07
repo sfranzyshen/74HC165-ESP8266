@@ -9,4 +9,4 @@ collections:
     title: Uploads
     output: true
 show_downloads: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
